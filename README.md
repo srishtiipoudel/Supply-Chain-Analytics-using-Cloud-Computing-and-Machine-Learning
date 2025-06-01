@@ -1,10 +1,10 @@
 # Supply-Chain-Analytics-using-Cloud-Computing-and-Machine-Learning
 
 ## 🎓 Final Year Project  
-Team Members: Srishti Poudel, Sneha Gurung  
-University: Tribhuvan University
-Department: Institute of Science and Technology
-Year: 2025
+**Team Members**: Srishti Poudel, Sneha Gurung  
+**University**: Tribhuvan University  
+**Department**: Institute of Science and Technology  
+**Year**: 2025
 
 ---
 
